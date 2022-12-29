@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="4e14aff14704211020f6bfc7536d4337" sys_domain="global" table="x_709919_wish_list_wish_item" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-29 15:11:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e14aff14704211020f6bfc7536d433a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_709919_wish_list_wish_item" name="x_709919_wish_list_wish_item" sys_domain="global" view="Default view">4e14aff14704211020f6bfc7536d4337</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_709919_wish_list_wish_item" sys_domain="global" view="Default view">c382e3714704211020f6bfc7536d432d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-29 15:11:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-29 15:11:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a14aff14704211020f6bfc7536d433b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_709919_wish_list_wish_item" name="x_709919_wish_list_wish_item" sys_domain="global" view="Default view">4e14aff14704211020f6bfc7536d4337</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_709919_wish_list_wish_item" sys_domain="global" view="Default view">4614aff14704211020f6bfc7536d4336</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-29 15:11:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-29 15:11:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a14aff14704211020f6bfc7536d437d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_709919_wish_list_wish_item" name="x_709919_wish_list_wish_item" sys_domain="global" view="Default view">4e14aff14704211020f6bfc7536d4337</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_709919_wish_list_wish_item" sys_domain="global" view="Default view">ce14aff14704211020f6bfc7536d4336</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-29 15:11:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_709919_wish_list_wish_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-29 15:11:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e14aff14704211020f6bfc7536d4337</sys_id>
+            <sys_name>x_709919_wish_list_wish_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Wish List" source="x_709919_wish_list">9bee92714700211020f6bfc7536d43b1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">9bee92714700211020f6bfc7536d43b1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_4e14aff14704211020f6bfc7536d4337</sys_update_name>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
